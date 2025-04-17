@@ -1,0 +1,23 @@
+{
+  "name": "awsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GS0715/AWSDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GS0715/AWSDemo/issues"
+  },
+  "homepage": "https://github.com/GS0715/AWSDemo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
